@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a test assignment designed to simulate real-world development scenarios and assess my skills. It involves fixing a verification issue on the registration and login processes, integrating a wallet connection feature on the profile page using Web3, and displaying the current Ethereum price on the user profile page. The project is built using Node.js version 16, and you'll need to work with potentially deprecated packages due to this version requirement.
+This project is a hobby project designed to simulate real-world development scenarios and assess my skills. It involves fixing a verification issue on the registration and login processes, integrating a wallet connection feature on the profile page using Web3, and displaying the current Ethereum price on the user profile page. The project is built using Node.js version 16, and you'll need to work with potentially deprecated packages due to this version requirement.
 
 ### Prerequisites
 
@@ -70,10 +70,3 @@ For the third task, I utilized the existing implementation of market prices and 
 
 One area for improvement is the error messages for form submissions, such as when an "email is inavalid" in the `email_verify` upon requesting a code. These messages should be more informative to the user. For instance, instead of a generic "Email is invalid", a message like "The email address you entered is already registered. Please use a different email address." would be more helpful. This approach aligns with best practices for error messaging, making it easier for users to understand and correct their mistakes.
 
-### User Interface Feedback
-
-The user interface is intuitive overall, but there's room for improvement in terms of content alignment. Specifically, the centering of content in the "Access Wallet" and "Create Wallet" cards could be adjusted for better visual appeal and consistency with the rest of the design.
-
-## Conclusion
-
-Completing this project has been a rewarding experience, especially overcoming the challenges posed by working with deprecated packages. It has honed my problem-solving skills and deepened my understanding of Node.js development practices. I'm excited about the opportunity to contribute to your team and look forward to discussing my solutions further.
